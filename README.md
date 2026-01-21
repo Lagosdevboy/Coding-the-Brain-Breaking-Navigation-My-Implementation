@@ -2,7 +2,8 @@
 A reconstruction of the iconic navigation design by Raul Druut, built entirely with modern CSS and zero JavaScript. This project explores the power of the new CSS Anchor Positioning API to create fluid, tethered micro-interactions.
 
 📺 Watch the Build
-I documented the reconstruction of this navigation in a high-energy build log. [Watch on YouTube: [Insert Your Video Link Here]]
+I documented the reconstruction of this navigation in a high-energy build log. [Watch on YouTube: [ Recreating Raul Druut’s Navigation ⚓ | Build Log
+https://youtu.be/2dfI5QpGE4M ]
 
 🚀 Technical Highlights
 This project was a deep dive into solving common layout challenges using bleeding-edge CSS features:
