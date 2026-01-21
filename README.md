@@ -38,7 +38,7 @@ Clone the repo:
 
 Bash
 
-git clone https://github.com/[YourUsername]/[RepoName].git
+git clone https://github.com/Lagosdevboy/Coding-the-Brain-Breaking-Navigation-My-Implementation
 Open index.html in any modern browser (Chrome 125+ or Edge 125+ recommended for Anchor Positioning support).
 
 🤝 Credits
